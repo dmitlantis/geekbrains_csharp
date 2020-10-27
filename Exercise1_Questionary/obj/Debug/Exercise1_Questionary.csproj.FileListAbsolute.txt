@@ -1,0 +1,7 @@
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\bin\Debug\Exercise1_Questionary.exe.config
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\bin\Debug\Exercise1_Questionary.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\bin\Debug\Exercise1_Questionary.pdb
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\obj\Debug\Exercise1_Questionary.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\obj\Debug\Exercise1_Questionary.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\obj\Debug\Exercise1_Questionary.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise1_Questionary\obj\Debug\Exercise1_Questionary.pdb
