@@ -1,6 +1,0 @@
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\obj\Debug\Exercise3_Measures.csproj.CoreCompileInputs.cache
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\bin\Debug\Exercise3_Measures.exe.config
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\bin\Debug\Exercise3_Measures.exe
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\bin\Debug\Exercise3_Measures.pdb
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\obj\Debug\Exercise3_Measures.exe
-C:\Projects\GeekBrains\geekbrains_csharp\Exercise3_Measures\obj\Debug\Exercise3_Measures.pdb

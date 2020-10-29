@@ -1,6 +1,0 @@
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\obj\Debug\Practice2_IMT.csproj.CoreCompileInputs.cache
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\bin\Debug\Practice2_IMT.exe.config
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\bin\Debug\Practice2_IMT.exe
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\bin\Debug\Practice2_IMT.pdb
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\obj\Debug\Practice2_IMT.exe
-C:\Projects\GeekBrains\geekbrains_csharp\Practice2_IMT\obj\Debug\Practice2_IMT.pdb
