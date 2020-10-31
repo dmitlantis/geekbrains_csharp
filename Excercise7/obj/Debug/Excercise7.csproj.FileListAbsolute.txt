@@ -1,0 +1,7 @@
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\bin\Debug\Excercise7.exe.config
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\bin\Debug\Excercise7.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\bin\Debug\Excercise7.pdb
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\obj\Debug\Excercise7.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\obj\Debug\Excercise7.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\obj\Debug\Excercise7.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Excercise7\obj\Debug\Excercise7.pdb

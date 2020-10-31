@@ -1,0 +1,11 @@
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise6.exe.config
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise6.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise6.pdb
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise2.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise2.pdb
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\bin\Debug\Exercise2.exe.config
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\obj\Debug\Exercise6.csproj.CopyComplete
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\obj\Debug\Exercise6.exe
+C:\Projects\GeekBrains\geekbrains_csharp\Exercise6\obj\Debug\Exercise6.pdb
